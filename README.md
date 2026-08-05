@@ -1,6 +1,6 @@
 # CODiff
 
-This repository contains the official PyTorch implementation of [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://openreview.net/forum?id=eDlsO4kFaX).
+This repository contains the official PyTorch implementation of [CODiff: One-Step Diffusion Model for Camouflaged Object Detection].
 
 ## Requirements
 
