@@ -4,8 +4,7 @@ This repository contains the official PyTorch implementation of [CODiff: One-Ste
 
 ## Requirements
 
-The complete environment specification is provided in [`requirements.yml`](requirements.yml). The main dependencies include Python 3.8.10, PyTorch 2.1.0, and torchvision 0.16.0. PyTorch packages are installed from the CUDA 12.1 wheel index.
-
+The complete environment specification is provided in [`requirements.yml`](requirements.yml).
 Create and activate the Conda environment with:
 
 ```bash
